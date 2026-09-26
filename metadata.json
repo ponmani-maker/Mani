@@ -1,0 +1,8 @@
+{
+  "name": "IT Help",
+  "description": "A streamlined IT support solution offering expert troubleshooting, system diagnostics, and comprehensive technical assistance for all your needs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
